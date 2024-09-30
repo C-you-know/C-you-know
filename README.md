@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chinmay J Sultanpuri
-- 👀 I’m interested in AI and its applications in bussiness solutions. 
+- 👀 I’m interested in AI and its applications in business solutions. 
 - 🌱 I’m currently learning Pytorch.
 - 📫 Reach me chinmay.you.know@gmail.com
 - ⚡ Fun fact: I want to go to Harvard Bussiness School
