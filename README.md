@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and its applications in business products. 
 - 🌱 I’m currently learning Pytorch.
 - 📫 Reach me chinmay.you.know@gmail.com
-- ⚡ Fun fact: I want to go to Harvard Business School
+- ⚡ Fun fact: I want to go to Harvard SEAS for my masters!
 
 <!---
 C-you-know/C-you-know is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
